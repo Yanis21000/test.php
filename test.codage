@@ -1,0 +1,38 @@
+<!DOCTYPE html 
+<html>
+<head> 
+      <title>Openclassrooms</title>
+      <image openclassrooms="photo.jpg"/>
+Formez-vous à un métier. Emploi garanti.
+      </citation>
+</head>
+
+    </body>
+        </h3>Développeur Web</h3>
+
+<p>Ceci est un test alors <strong>soyez indulgents.</strong> <br></p>
+
+<p>Pour l'instant le site est vide mais ne vous faites pas de soucis pour ca, il est en cours de développement.<br></p>
+
+      <p>Voici une liste de course à éffectuer.</p>    
+
+        <h2>Liste de fruits</h2>
+
+        <ul>
+            <li>Fraises</li>
+            <li>Framboises</li>
+            <li>Cerises</li>
+        </ul>
+
+        <a href="https://openclassrooms.com/fr/dashboard">Openclassrooms</a>
+        
+
+
+
+
+
+
+
+
+    </body>
+</html>
